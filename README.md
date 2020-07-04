@@ -23,6 +23,6 @@ Assumptions:
 
 The histograms for service time, inter arrival time and waiting time were plotted for statistical analysis and were modeled using Arena. The actual mean waiting time and simulated were validated using hupothesis testing for the correcteness of simulation with 95% confidence interval. The effect of adding a parallel dosa counter on mean waiting time of customers was simulated assuming identical service time distributions of both counters.
 
-True mean waiting time: 8.3 minutes
-Simulated mean waiting time with single dosa counter for 30 replications: 8.93 minutes
-Simulated mean waiting time with parallel dosa counter for 10 replications: 2.44 minutes
+* True mean waiting time: 8.3 minutes
+* Simulated mean waiting time with single dosa counter for 30 replications: 8.93 minutes
+* Simulated mean waiting time with parallel dosa counter for 10 replications: 2.44 minutes
